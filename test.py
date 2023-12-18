@@ -35,6 +35,9 @@ print(y_updated)
 # updated_coefficients = model.coef_
 # updated_intercept = model.intercept_
 
+print(model.coef_)
+print(model.intercept_)
+
 # updated_coefficients, updated_intercept
 
 
