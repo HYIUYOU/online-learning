@@ -17,7 +17,6 @@ y_pred = model.predict(X_initial)
 print(y_initial)
 print(y_pred)
 
-
 # 模拟新数据的到来
 X_new = np.array([[5, 10], [6, 12]])
 y_new = np.array([15, 18])
